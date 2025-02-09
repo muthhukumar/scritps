@@ -6,8 +6,8 @@
 // @author       Muthukumar P
 // @match        *://*/*
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/muthhukumar/scripts/main/auto-scroll.user.js
-// @updateURL    https://raw.githubusercontent.com/muthhukumar/scripts/main/auto-scroll.user.js
+// @downloadURL  https://github.com/muthhukumar/scritps/raw/refs/heads/main/auto-scroll.user.js
+// @updateURL    https://github.com/muthhukumar/scritps/raw/refs/heads/main/auto-scroll.user.js
 // ==/UserScript==
 
 (function scrollPage() {
