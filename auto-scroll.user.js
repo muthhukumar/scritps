@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Auto Scroll Every 35 seconds
+// @name         Auto Scroll Every 30 seconds
 // @namespace    https://github.com/muthhukumar/scripts
-// @version      1.2
+// @version      1.3
 // @description  Smoothly scrolls 35% of the screen every 35000 seconds
 // @author       Muthukumar P
 // @match        *://*/*
@@ -18,5 +18,5 @@
         } else {
             window.scrollBy({ top: scrollAmount, left: 0, behavior: "smooth" });
         }
-    }, 35000);
+    }, 30000);
 })();
