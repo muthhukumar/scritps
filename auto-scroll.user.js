@@ -12,7 +12,7 @@
 
 (function scrollPage() {
     let scrollInterval = setInterval(() => {
-        let scrollAmount = window.innerHeight * 0.35;
+        let scrollAmount = window.innerHeight * 0.40;
         if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
             clearInterval(scrollInterval);
         } else {
