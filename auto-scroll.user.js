@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Auto Scroll Every 5s
-// @namespace    https://github.com/muthhukumar/repository
+// @namespace    https://github.com/muthhukumar/scripts
 // @version      1.0
-// @description  Smoothly scrolls 10% of the screen every 5 seconds
+// @description  Smoothly scrolls 35% of the screen every 35000 seconds
 // @author       Your Name
 // @match        *://*/*
 // @grant        none
