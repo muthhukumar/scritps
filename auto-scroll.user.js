@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Auto Scroll Every 35 seconds
 // @namespace    https://github.com/muthhukumar/scripts
-// @version      1.1
+// @version      1.2
 // @description  Smoothly scrolls 35% of the screen every 35000 seconds
 // @author       Muthukumar P
 // @match        *://*/*
